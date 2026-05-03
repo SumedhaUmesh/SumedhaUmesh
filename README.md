@@ -59,11 +59,9 @@ Finishing my degree at USC while digging deeper into **ROS 2 and perception**, a
 
 ---
 
-## 📂 Selected projects
-
 Full stories, visuals, and architecture notes live on my **[portfolio](https://sumedhak.netlify.app)**.
 
-### 1 · Deep Research Agent · *Academic, 2025*
+**Deep Research Agent**
 
 **Stack:** LangGraph, Python, Tavily, Anthropic Claude  
 
@@ -72,7 +70,7 @@ LangGraph multi-agent system with parallel research and citation-backed reports.
 - Parallel research across **500+ sources**; citation-backed outputs; **~60% faster** research turnaround vs prior workflow.
 - Planner / search / synthesis agents with shared state; Tavily + Claude; extensible tools and citation policies.
 
-### 2 · Concierge · *Academic, 2025*
+**Concierge**
 
 **Stack:** Python, FastAPI, llama.cpp, WebSockets, Whisper  
 
@@ -81,7 +79,7 @@ On-device in-car AI agent with grammar-constrained LLM output and sub-second too
 - **GBNF** grammar-constrained JSON; LLM calls capped to **~10%** of a **3s** tick.
 - Intent router → **Overpass**, **Open-Meteo**, **OSRM**, **Nominatim** under **1s**.
 
-### 3 · Embedded Health-Monitor Firmware · *Academic, 2025*
+**Embedded Health-Monitor Firmware**
 
 **Stack:** Zephyr RTOS, C++17, Cortex-M, QEMU, GoogleTest  
 
@@ -89,7 +87,7 @@ Zephyr on Cortex-M with layered architecture and host-side GoogleTest.
 
 - **3-tier** architecture; **QEMU CI**; HR pipeline (IIR bandpass, peak detect → BPM) + activity (IMU variance) tested with **GoogleTest** without flashing.
 
-### 4 · MOSAIC · *Personal, 2025*
+**MOSAIC**
 
 **Stack:** ROS 2 Humble, Docker, Python, C++17, Eigen, OpenCV, Foxglove  
 
@@ -97,7 +95,7 @@ ROS 2 ADAS scaffold: camera + LiDAR perception, fusion tracking, FCW/LDW.
 
 - Custom msgs, **KITTI** replay, Python + C++ nodes; fusion tracker → **FCW** and lane-departure-style warnings; optional **Foxglove**; YAML/launch config.
 
-### 5 · CarOSMini · *Personal, 2025*
+**CarOSMini**
 
 **Stack:** Kotlin, Android Automotive, AIDL, Room, Gradle  
 
@@ -105,7 +103,7 @@ Multi-app AAOS infotainment; profile switching via Bluetooth ACL events.
 
 - **IProfileService**, **IPhoneConnectionService**, **Room** persistence; **ACTION_ACL_CONNECTED** → MAC → profile broadcast; documented AAOS + phone emulator workflow.
 
-### 6 · Distributed File Sync Engine · *Personal, 2025*
+**Distributed File Sync Engine**
 
 **Stack:** C++17, gRPC, CMake, Protobuf  
 
@@ -122,7 +120,6 @@ C++17 + gRPC bootstrap for bidirectional directory sync; logs and metrics.
 | ✉️ **Email** | [sumedhau@usc.edu](mailto:sumedhau@usc.edu) |
 | 💼 **LinkedIn** | [linkedin.com/in/SumedhaUmeshKulkarni](https://www.linkedin.com/in/SumedhaUmeshKulkarni/) |
 | 🌐 **Portfolio** | [sumedhak.netlify.app](https://sumedhak.netlify.app) |
-| 📞 **Phone** | (213) 574-5187 |
 
 You can also use this **one-line bio** for your GitHub profile settings (under ~160 characters):
 
