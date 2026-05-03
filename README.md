@@ -61,7 +61,9 @@ Closing out my **MS CS at USC** while pushing **ROS 2** work (**perception**, se
 
 ---
 
-Full stories, visuals, and architecture notes live on my **[portfolio](https://sumedhak.netlify.app)**.
+## Projects
+
+Full write-ups, visuals, and architecture notes: **[portfolio](https://sumedhak.netlify.app)**.
 
 **Deep Research Agent**
 
@@ -72,6 +74,8 @@ A **LangGraph** multi-agent system that **decomposes open-ended questions**, run
 - Parallel research across **500+ sources**; outputs include citations; **~60% faster** end-to-end research turnaround vs the prior manual flow.
 - Clear separation between **planning, retrieval, and synthesis**; room to plug in new tools and tighten what counts as a valid citation.
 
+---
+
 **Concierge**
 
 **Stack:** Python, FastAPI, llama.cpp, WebSockets, Whisper  
@@ -80,6 +84,8 @@ An **in-car, on-device** stack around a **~1.2B** local LLM: a **two-stage gate 
 
 - **GBNF** keeps tool calls valid; LLM work budgeted to **~10%** of the **3s** tick so most time goes to real I/O and routing.
 - **Sub-second** routing to external APIs; designed for **low-latency** in-vehicle use, not a chatty server round-trip for every nuance.
+
+---
 
 **Embedded Health-Monitor Firmware**
 
@@ -90,6 +96,8 @@ An **in-car, on-device** stack around a **~1.2B** local LLM: a **two-stage gate 
 - **QEMU** regression in CI; same code paths stressed as on device.
 - Signal chain and activity logic verified with **GoogleTest** before bring-up, reducing “flash and pray” debug cycles.
 
+---
+
 **MOSAIC**
 
 **Stack:** ROS 2 Humble, Docker, Python, C++17, Eigen, OpenCV, Foxglove  
@@ -99,6 +107,8 @@ A **Dockerized** **Ubuntu 22.04** **ROS 2** stack: **bag replay**, **camera + Li
 - **KITTI**-style replay; end-to-end path from sensors through fusion to **FCW / LDW**-style warnings.
 - **Kit** for experiments: same launch story in dev and CI-style environments.
 
+---
+
 **CarOSMini**
 
 **Stack:** Kotlin, Android Automotive, AIDL, Room, Gradle  
@@ -107,6 +117,8 @@ A **multi-module** **Android Automotive**-style build: **core AIDL services** (e
 
 - **Room** schema for **device_profile_links**; **ProfileService** owns the truth for “which phone maps to which profile.”
 - Reproducible **AAOS + phone** bring-up so Bluetooth flows are testable without a full car bench.
+
+---
 
 **Distributed File Sync Engine**
 
@@ -126,12 +138,6 @@ A **multi-module** **Android Automotive**-style build: **core AIDL services** (e
 | ✉️ **Email** | [sumedhau@usc.edu](mailto:sumedhau@usc.edu) |
 | 💼 **LinkedIn** | [linkedin.com/in/SumedhaUmeshKulkarni](https://www.linkedin.com/in/SumedhaUmeshKulkarni/) |
 | 🌐 **Portfolio** | [sumedhak.netlify.app](https://sumedhak.netlify.app) |
-
-You can also use this **one-line bio** for your GitHub profile settings (under ~160 characters):
-
-> Full-stack: MS CS @ USC · Embedded (C++/RTOS/Zephyr) · ROS 2 · AAOS/Kotlin · RAG & agents (Haystack, LangGraph) · Python/C++ — open to roles.
-
-*(Alternative, embedded-heavy: C++/RTOS/Zephyr · ROS 2 · Android Automotive · On-device LLMs & tools · RAG pipelines — MS CS @ USC, ex Mercedes-Benz SWE.)*
 
 ---
 
