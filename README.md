@@ -37,30 +37,6 @@ Closing out my **MS CS at USC** while pushing **ROS 2** work (**perception**, se
 
 ---
 
-## 💼 Experience
-
-### Deep Cognition — AI Intern · Remote  
-*June 2025 – August 2025*
-
-- Built a **Haystack-based RAG** pipeline (Markdown split/index, SentenceTransformers, **Anthropic Claude**) — **~37% lower retrieval latency**.
-- **Real-time Q&A** over **500+ documentation repos** in LibreChat via **Flask** REST JSON endpoints.
-- **~65% faster invoice ingestion**: EML→PDF with **Playwright**, **OCR** metadata from PDFs/images, **200+ documents/day** into an AI document pipeline.
-
-### Mercedes-Benz — Software Developer · India  
-*August 2023 – May 2024*
-
-- **C++17** HAL↔app path with **BlueGo** and **DeviceManager RPC** for battery data, persistence, and real-time UI alerts.
-- **Bluetooth** and DeviceManager debugging with **GDB** and **DLT-Viewer**; core dumps; **~20% reduction** in related bug incidence.
-- **+30% code coverage** with **GTest** automation.
-- **Hardware bring-up / flashing** for **45+ tasks** (ET-framework, Monaco).
-
-### Mercedes-Benz — Intern · India  
-*February 2023 – July 2023*
-
-- **Python CLI** on Linux for automated HW/SW testing — adopted by **10+ engineers**.
-
----
-
 ## Projects
 
 Full write-ups, visuals, and architecture notes: **[portfolio](https://sumedhak.netlify.app)**.
