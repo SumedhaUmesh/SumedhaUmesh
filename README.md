@@ -1,35 +1,44 @@
-Hi, I'm Sumedha Umesh Kulkarni 👋
+# Hi, I'm Sumedha 👋  
 
-Software Engineer working across automotive systems and AI applications, with a focus on real-time, reliable software.
+Software Engineer working at the intersection of **low-level systems and AI** — building software that runs **close to hardware** and scales up to **LLM-driven applications**.
 
-Los Angeles · Open to roles · F1-OPT + STEM · Open to relocation
+📍 Los Angeles · Open to roles · F1-OPT + STEM · Open to relocation  
 
-About me
+---
 
-I work on problems where hardware, latency, and messy real-world data matter.
+## About  
 
-At Mercedes-Benz, I built C++ systems connecting hardware to applications, debugged Bluetooth and system-level issues, improved test coverage, and supported hardware bring-up.
+I work on systems where **latency, hardware constraints, and messy real-world data** all matter.  
 
-At Deep Cognition, I built and deployed RAG pipelines and data ingestion systems processing large-scale document workflows with measurable performance gains.
+- At **Mercedes-Benz**, built C++ systems connecting hardware to applications, debugged Bluetooth and system-level failures, and supported bring-up across vehicle platforms  
+- At **Deep Cognition**, built **RAG pipelines and data systems** for large-scale document processing with measurable performance gains  
 
-What I build
+I’m most interested in problems that sit between **embedded systems, backend infrastructure, and AI**.
 
-Automotive & Systems
+---
 
-Camera + LiDAR system for real-time driving alerts
-Android Automotive infotainment platform with multiple apps
-Real-time embedded firmware for health monitoring
+## What I build  
 
-AI & Data Systems
+### 🚗 Systems (Automotive / Embedded / Real-time)
+- Camera + LiDAR pipeline for real-time driving alerts  
+- Android Automotive infotainment system with multi-app architecture  
+- Real-time embedded firmware on constrained hardware  
 
-In-car AI assistant using on-device LLMs
-RAG pipelines and evaluation workflows
-Data pipelines and real-time AI systems
-Tech
+### 🤖 AI (LLMs / Data / Agents)
+- In-car AI assistant using on-device LLMs  
+- RAG pipelines and evaluation workflows  
+- Real-time AI systems with structured outputs and tool routing  
 
-C++, Python, ROS2, FastAPI, Android Automotive, Docker, LLM systems
+---
 
-Links
-Portfolio: https://sumedhak.netlify.app
-LinkedIn: https://www.linkedin.com/in/SumedhaUmeshKulkarni
-Portfolio: https://sumedhak.netlify.app
+## Tech  
+
+`C++` `Python` `ROS2` `FastAPI` `Android Automotive` `Docker` `LLMs`  
+
+---
+
+## Links  
+
+- GitHub: https://github.com/SumedhaUmesh  
+- Portfolio: https://sumedhak.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/SumedhaUmeshKulkarni  
